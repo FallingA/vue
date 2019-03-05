@@ -4,7 +4,7 @@
             <i class="iconfont icon-back" slot="left" @click="goBack()"></i>
             <div slot="center" class="navbar-center">商品详情</div>
             <i class="iconfont icon-msg" slot="right"></i>
-           
+           <!-- 萨沙的男孩 -->
         </navbar>
         <div class="product">
             <!-- 商品图片开始 -->
