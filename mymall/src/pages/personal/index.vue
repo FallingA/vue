@@ -117,6 +117,7 @@
         },
         data(){
             return{
+                // 阿瑟东大时代阿三打撒十大
                   Fheight:document.documentElement.clientHeight - 50 + 'px',
             }
         }
